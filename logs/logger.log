@@ -23,3 +23,5 @@ error | 2019-04-13 23:21:44 File: D:\OS\OSPanel\domains\php2.loc\App\Model.php L
 error | 2019-04-13 23:21:53 File: D:\OS\OSPanel\domains\php2.loc\App\Model.php Line: 144 Description: The field <b>content</b> is not filled.error | 2019-04-13 23:59:15 File: D:\OS\OSPanel\domains\hw7.php2\App\Controllers\Article.php Line: 24 Description: Error 404 - Article with such id <b>25577</b> not found
 error | 2019-04-13 23:59:21 File: D:\OS\OSPanel\domains\hw7.php2\App\Model.php Line: 144 Description: The field <b>title</b> is not filled.
 error | 2019-04-13 23:59:21 File: D:\OS\OSPanel\domains\hw7.php2\App\Model.php Line: 144 Description: The field <b>content</b> is not filled.
+error | 2019-05-21 10:13:54 File: D:\OS\OSPanel\domains\hw7.php2\App\Model.php Line: 144 Description: The field <b>title</b> is not filled.
+error | 2019-05-21 10:13:54 File: D:\OS\OSPanel\domains\hw7.php2\App\Model.php Line: 144 Description: The field <b>content</b> is not filled.
